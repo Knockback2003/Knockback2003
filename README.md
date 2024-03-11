@@ -1,4 +1,6 @@
-# Knockback2003
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&pause=1000&random=false&width=435&lines=Welcome+to+Knockback2003)](https://git.io/typing-svg)
+---
+
 
 [![](https://awesome-github-stats.azurewebsites.net/user-stats/Knockback2003?cardType=octocat&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 [![](https://streak-stats.demolab.com/?user=Knockback2003&theme=github-dark-dimmed)](https://git.io/streak-stats)
