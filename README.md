@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&pause=1000&random=false&width=435&lines=Welcome+to+Knockback2003)](https://git.io/typing-svg)
 ---
 
-<div style="width: 100%; height: 200px; background-image: url('https://minimalistic-wallpaper.demolab.com/?random'); background-size: cover; background-position: center;">
-</div>
+<img src=https://github.com/Knockback2003/Knockback2003/blob/main/Screenshot%20from%202024-03-11%2014-58-17.png />
 
 ---
 ### Languages and Tools
