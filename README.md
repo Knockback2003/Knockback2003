@@ -51,7 +51,7 @@
 
 ### Hi and welcome to my GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"/>
 Im a 20 years old hobby software developer from germany, living in the city of Frankfurt am Main.
-Currently I am on a internship and learning how to develop webapplications with symfony, php, mySQL etc.
+Currently I am learning how to develop webapplications with symfony, php, mySQL etc.
 
 I like coding but also playing games (especially brain games) and watching movies / series.
 
@@ -63,6 +63,7 @@ Feel free to contact me if you have any questions!
 
 ### My Projects
 
+* Smartgrow.space
 * Schaukel.land
 * alarmbox
 * ...
